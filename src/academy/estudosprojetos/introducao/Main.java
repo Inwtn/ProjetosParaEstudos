@@ -1,4 +1,4 @@
-package academy.estudosprojetos;
+package academy.estudosprojetos.introducao;
 
 public class Main {
     public static void main(String[] args) {
